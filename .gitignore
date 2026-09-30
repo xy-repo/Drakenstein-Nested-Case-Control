@@ -1,3 +1,5 @@
+__pycache__/
+*.py[cod]
+results/
 Rplots.pdf
-nohup.out
-cov_mat_*
+.Rhistory
